@@ -1,0 +1,16 @@
+node_modules
+.env
+typechain
+typechain-types
+lazygit.exe
+DummyOTCDesk.sol
+package-lock.json
+
+# Hardhat files
+cache
+artifacts
+
+mnemonic.txt
+deployments
+
+coverage
